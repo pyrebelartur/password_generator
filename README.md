@@ -10,7 +10,7 @@ It lets the user customize how many letters, symbols, and numbers should be incl
 - User chooses how many letters, symbols, and numbers the password should contain.
 - Clean, beginner-friendly code written in a classic, step-by-step style.
 
-🧠 What I Learned from This Project
+## 🧠 What I Learned from This Project
 This project helped me solidify key programming concepts in Python. It was a great opportunity to build something functional from scratch.
 
 ✅ Python Concepts Practiced:
@@ -21,6 +21,7 @@ This project helped me solidify key programming concepts in Python. It was a gre
 - Randomization: Using the random module — random.choice() to select elements, and random.shuffle() to mix them.
 - String manipulation: Building the final password as a single string from randomized characters.
 - Code structure: Organizing code clearly — input → logic → output.
+  
 ## 🚀 How to Use
 
 1. Clone or download this repository.
